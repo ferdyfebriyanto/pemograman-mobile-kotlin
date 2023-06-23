@@ -1,6 +1,7 @@
 ﻿# pemograman-mobile-kotlin
-
+Spesifikasi
 API 24: Android 7.0 (Nougat)
+
 
 Dokumentasi
 
